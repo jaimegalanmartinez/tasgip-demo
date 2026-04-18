@@ -1,0 +1,23 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+
+  <!-- Tasgip v19 — horizontal pills collide in the middle
+       Both extend past midpoint, round caps overlap
+       Red cap sits on top at the collision point -->
+
+  <!-- 1. Blue top diagonal pill -->
+  <line x1="220" y1="76" x2="196" y2="270"
+    stroke="#1D4ED8" stroke-width="76" stroke-linecap="round"/>
+
+  <!-- 4. Red bottom pill (behind blue bridge) -->
+  <line x1="306" y1="270" x2="282" y2="436"
+    stroke="#DC2626" stroke-width="76" stroke-linecap="round"/>
+
+  <!-- 2. Red joint pill (shorter, behind at collision) -->
+  <line x1="196" y1="270" x2="240" y2="270"
+    stroke="#DC2626" stroke-width="76" stroke-linecap="round"/>
+
+  <!-- 3. Blue bridge right pill (shorter, on top at collision) -->
+  <line x1="262" y1="270" x2="306" y2="270"
+    stroke="#1D4ED8" stroke-width="76" stroke-linecap="round"/>
+
+</svg>
