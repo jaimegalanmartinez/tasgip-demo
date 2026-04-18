@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://demo.tasgip.eu">
-    <img src="public/og-image.png" alt="Tasgip demo preview" width="600" />
+    <img src="public/og-image.png" alt="Tasgip demo preview" width="100%" />
   </a>
 </p>
 
