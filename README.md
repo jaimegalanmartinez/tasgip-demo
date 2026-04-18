@@ -10,7 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://demo.tasgip.eu"><strong>Live demo: demo.tasgip.eu</strong></a>
+  <a href="https://demo.tasgip.eu"><strong>Live: demo.tasgip.eu</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://demo.tasgip.eu">
+    <img src="https://demo.tasgip.eu/opengraph-image" alt="Tasgip demo preview" width="600" />
+  </a>
 </p>
 
 <p align="center">
