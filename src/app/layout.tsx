@@ -30,6 +30,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://demo.tasgip.eu",
   },
+  verification: {
+    google: "bJMXEzJg9RE77LJT2gpEtU37Z5QrDZW6EYu20j",
+  },
 };
 
 export const viewport: Viewport = {
