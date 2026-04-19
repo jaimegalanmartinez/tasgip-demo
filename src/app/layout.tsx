@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     canonical: "https://demo.tasgip.eu",
   },
   verification: {
-    google: "bJMXEzJg9RE77LJT2gpEtU37Z5QrDZW6EYu20j",
+    google: "bJMXEzJg9RE77LJT2gpEtU37Z5QrDZW6EYu20j-KWSA",
   },
 };
 
